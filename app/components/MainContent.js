@@ -11,7 +11,7 @@ import { useDevice } from '../context/DeviceContext';
 const socialLinksData = [
   { href: "https://www.youtube.com/@Memayybo", icon: <FaYoutube size={24} />, label: "Memayybo" },
   { href: "https://www.facebook.com/profile.php?id=61591530574387", icon: <FaFacebook size={24} />, label: "Vuong Lam Nguyen" },
-  { href: "https://github.com/memaybeo192", icon: <FaGithub size={24} />, label: "Memaybeo192" },
+  { href: "https://github.com/shizunavn", icon: <FaGithub size={24} />, label: "Memaybeo192" },
   { href: "https://namemc.com/profile/Sayuna_VN.1", icon: <FaCube size={24} />, label: "Sayuna_VN" },
 ];
 const infoData = [
